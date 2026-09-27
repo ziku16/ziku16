@@ -12,7 +12,7 @@
 
 <!--SYSTEM_STATE:START-->
 ```
-m-zaki-237@node
+ziku16@node
 -------------------
 OS:       Fedora
 Host:     Zaki
